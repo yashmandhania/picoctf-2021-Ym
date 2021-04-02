@@ -1,1 +1,9 @@
+Used BINWALK tool to extract the hidden image file.
+Used file command to check for the file type of extracted image.
+Got a file flag.txt after extracting the file thrice.
 
+
+Command:
+
+BINWALK -e <file name>
+file <filename>
