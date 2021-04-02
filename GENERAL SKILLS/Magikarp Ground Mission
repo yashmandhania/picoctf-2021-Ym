@@ -1,0 +1,7 @@
+run commad ssh ctf-player@venus.picoctf.net -p 49300 and enter pass (481e7b14) to connect to the host 
+Use, ls, ls-a, cat to see , read the hidden files
+get the 1st part of the flag
+look for the other parts of the flag in all the successive directories 
+command cd can be used 
+get the 3/3 part of the flag 
+further look up to find the 2/3 part using the same way 
