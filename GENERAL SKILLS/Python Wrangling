@@ -1,0 +1,4 @@
+Get the Python script accessible in your shell by entering the following command in the Terminal prompt:
+ $ wget https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/ende.py
+ by using the command :
+ {python "ende.py" -d "flag.txt.en" } to decode the FLAG 
