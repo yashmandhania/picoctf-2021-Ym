@@ -1,0 +1,3 @@
+run the command {$ nc mercury.picoctf.net 22342} to connect to the host and obtain the ASCII values of the flag 
+use and online decoder to covert ascii values into their respective char values
+resources :https://convert.town/ascii-to-text
