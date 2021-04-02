@@ -1,0 +1,6 @@
+DOWNLOAD THE JPG FILE 
+RUN THE COMMAND file cat .jpg on the terminal to look into the details of the file 
+USING THE {EXIFTOOL}(CAN BE DOWNLOADED WITH THE COMMAND: 
+(sudo apt-get install -y exiftool)
+run the command [exiftool cat.jpg]
+read the meta data for the file and search the flag 
