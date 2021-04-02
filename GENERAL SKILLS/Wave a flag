@@ -1,0 +1,4 @@
+To get the file accessible in your shell, enter the following in the Terminal prompt: 
+$ wget https://mercury.picoctf.net/static/b28b6021d6040b086c2226ebeb913bc2/warm
+make the file executable with the command : $ chmod +x warm
+run the the command (./warm -h) to read the contents of tyhe file and know what the file does ,therefore getting the flag 🚩 
